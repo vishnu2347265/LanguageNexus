@@ -30,7 +30,7 @@ def main():
 
     # Sidebar layout
     st.sidebar.title("Language Nexus")
-    st.sidebar.image("images\image.jpg", use_column_width=True)  # Insert your image here
+    st.sidebar.image("image.jpg", use_column_width=True)  # Insert your image here
 
     # Customize sidebar theme
     st.markdown(
