@@ -200,4 +200,3 @@ def about_us_page():
 
 if __name__ == "__main__":
     main()  # calls the main() first
-D:\Progrmming\Python\Advance\StreamLit\Streamlit-Translator-main\images\image.jpg
